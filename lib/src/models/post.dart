@@ -47,5 +47,18 @@ final List<Letter> posts = [
     title: 'Who name this blog?',
     content: "It's me.",
     imgPath: 'assets/images/post_2.png',
+  ),
+  Letter(
+    author: 'Meme',
+    title: 'I am struggling',
+    content: "No one love me.",
+    imgPath: 'assets/images/post_3.png',
+  ),
+  Letter(
+    author: 'theblueskyandthepurpleone',
+    title: '13',
+    content:
+        "Today I'm sick\nBecause of flu.\nI think I miss\nA piece of you..",
+    imgPath: 'assets/images/post_4.png',
   )
 ];
