@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516092934057",
+    "project_id": "heart-breaker-blog-app",
+    "storage_bucket": "heart-breaker-blog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516092934057:android:ea90cbfd804a45a1a776b8",
+        "android_client_info": {
+          "package_name": "com.example.heart_breaker_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516092934057-5tt8j0nn2jaeqkqg33ppuubnk0p3orce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnTh-QKE4yPhIg6k6-OvzpsGjXRLDVdu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516092934057-5tt8j0nn2jaeqkqg33ppuubnk0p3orce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

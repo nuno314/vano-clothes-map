@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vano_clothes_map/config/themes/app_colors.dart';
-import 'package:vano_clothes_map/config/themes/app_text_styles.dart';
+import 'package:heart_breaker_blog_app/config/themes/app_colors.dart';
+import 'package:heart_breaker_blog_app/config/themes/app_text_styles.dart';
 
 class SearchBar extends StatelessWidget {
   const SearchBar({

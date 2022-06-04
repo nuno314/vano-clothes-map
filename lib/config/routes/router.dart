@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:vano_clothes_map/config/routes/routes.dart';
-import 'package:vano_clothes_map/modules/new_user/onboarding_page.dart';
-import 'package:vano_clothes_map/modules/new_user/splash_page.dart';
+import 'package:heart_breaker_blog_app/config/routes/routes.dart';
+import 'package:heart_breaker_blog_app/modules/new_user/onboarding_page.dart';
+import 'package:heart_breaker_blog_app/modules/new_user/splash_page.dart';
 
 class Router {
   static Route<dynamic>? generateRoute(RouteSettings settings) {

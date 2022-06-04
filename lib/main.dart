@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:vano_clothes_map/config/routes/routes.dart';
-import 'package:vano_clothes_map/config/themes/app_colors.dart';
-import 'package:vano_clothes_map/modules/home/screens/home_page.dart';
+import 'package:heart_breaker_blog_app/config/routes/routes.dart';
+import 'package:heart_breaker_blog_app/config/themes/app_colors.dart';
+import 'package:heart_breaker_blog_app/modules/home/screens/home_page.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();

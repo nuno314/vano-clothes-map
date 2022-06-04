@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vano_clothes_map/config/themes/app_text_styles.dart';
-import 'package:vano_clothes_map/constants/assets_path.dart';
+import 'package:heart_breaker_blog_app/config/themes/app_text_styles.dart';
+import 'package:heart_breaker_blog_app/constants/assets_path.dart';
 
 class HomeHeader extends StatelessWidget {
   const HomeHeader({
@@ -19,7 +19,7 @@ class HomeHeader extends StatelessWidget {
         child:
             Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
           const Text(
-            'Heartbroker',
+            'Heartbreaker',
             style: AppTextStyle.headingSemiBold,
           ),
           CircleAvatar(

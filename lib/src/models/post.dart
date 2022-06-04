@@ -38,7 +38,7 @@ final List<String> genres = [
 final List<Letter> posts = [
   Letter(
     author: 'Nuno',
-    title: 'Welcome to Heartbroken',
+    title: 'Welcome to Heartbroker',
     content: 'First init: 28/05/2022.',
     imgPath: 'assets/images/post_1.png',
   ),

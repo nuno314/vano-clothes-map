@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.vano_clothes_map">
+    package="com.example.heart_breaker_blog_app">
    <application
-        android:label="vano_clothes_map"
+        android:label="heart_breaker_blog_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
