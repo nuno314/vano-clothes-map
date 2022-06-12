@@ -1,10 +1,13 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+
 import 'package:heart_breaker_blog_app/config/routes/routes.dart';
 import 'package:heart_breaker_blog_app/config/themes/app_colors.dart';
 import 'package:heart_breaker_blog_app/modules/home/screens/home_page.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(MyApp());
 }
 

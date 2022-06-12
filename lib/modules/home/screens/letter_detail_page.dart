@@ -3,7 +3,6 @@ import 'package:heart_breaker_blog_app/config/themes/app_colors.dart';
 import 'package:heart_breaker_blog_app/config/themes/app_text_styles.dart';
 import 'package:heart_breaker_blog_app/src/models/comment.dart';
 import 'package:heart_breaker_blog_app/src/models/post.dart';
-import 'package:heart_breaker_blog_app/src/models/reaction.dart';
 import 'package:heart_breaker_blog_app/widgets/stless/reaction_bar.dart';
 
 import '../widgets/detail_letter.dart';

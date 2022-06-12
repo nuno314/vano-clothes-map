@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:heart_breaker_blog_app/config/themes/app_colors.dart';
 import 'package:heart_breaker_blog_app/config/themes/app_text_styles.dart';
 import 'package:heart_breaker_blog_app/modules/home/widgets/category_bar.dart';
 import 'package:heart_breaker_blog_app/modules/home/widgets/header.dart';
@@ -7,7 +6,6 @@ import 'package:heart_breaker_blog_app/modules/home/widgets/letter_list.dart';
 import 'package:heart_breaker_blog_app/modules/home/widgets/lettering_button.dart';
 import 'package:heart_breaker_blog_app/modules/home/widgets/search_bar.dart';
 import 'package:heart_breaker_blog_app/modules/home/widgets/slider_bar.dart';
-import 'package:heart_breaker_blog_app/src/models/post.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
